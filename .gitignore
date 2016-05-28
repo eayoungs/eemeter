@@ -1,3 +1,9 @@
+# Git
+.gitignore
+
+# Sublime Text
+*.sublime-*
+
 *.py[cod]
 __pycache__/
 *.egg-info
